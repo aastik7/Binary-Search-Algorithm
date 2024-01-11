@@ -1,4 +1,10 @@
-[1,2,3,4,5,6,7,8,9,10]
 
-(0+9)/2 
 
+def binary_search(list,elements):
+    middle = 0
+    start = 0 
+    end = len(list)
+    steps = 0 
+
+    while(start<=end):
+    
